@@ -3,8 +3,18 @@ keu-5/keu-5 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Skills](https://skillicons.dev/icons?i=css,django,docker,elasticsearch,figma,git,github,go,html,js,latex,linux,neovim,nextjs,nginx,nodejs,npm,postgres,postman,py,rails,react,ruby,sqlite,tailwind,terraform,ts,ubuntu,vercel,vscode,vue,windows&perline=15)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,vue,tailwind,django,rails,nodejs,postgres,sqlite,docker,nginx,ubuntu,linux,neovim,vscode,html,css,js,py,ruby,git,github,figma,latex,windows,postman,vercel,terraform&theme=dark&perline=10" alt="My Skills" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=keu-5)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keu-5&theme=darkhub&margin-w=10&margin-h=15" alt="trophy" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-night-rainbow" />
+</div>
